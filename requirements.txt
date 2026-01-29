@@ -1,0 +1,2 @@
+python-telegram-bot>=20.0
+dnspython>=2.3.0
