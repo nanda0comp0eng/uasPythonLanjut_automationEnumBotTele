@@ -31,8 +31,8 @@ Bot ini memanggil tools eksternal melalui command line. Install tools berikut:
 # Update repository
 sudo apt update
 
-# Install Nmap dan Whois
-sudo apt install nmap whois -y
+# Install Tools
+sudo apt install dirsearch subfinder nmap whois -y
 
 # Install Python Pip & Venv (jika belum ada)
 sudo apt install python3-pip python3-venv -y
