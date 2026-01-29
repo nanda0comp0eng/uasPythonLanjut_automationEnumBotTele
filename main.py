@@ -19,7 +19,7 @@ from telegram.ext import (
 # ==========================================
 # 1. CONFIGURATION
 # ==========================================
-TOKEN = "8488807700:AAHVFoUFjGj2qG8XwmljBH3vKp18HtAi4IM"
+TOKEN = "TELEGRAM_TOKEN_TOKEN"
 DB_NAME = "recon_bot.db"
 RESULTS_DIR = "results"
 
