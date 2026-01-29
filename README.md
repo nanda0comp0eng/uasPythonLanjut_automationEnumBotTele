@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Telegram ReconOps Bot
+# Telegram ReconOps Bot
 
 **ReconOps Bot** adalah asisten keamanan siber otomatis berbasis Telegram yang dirancang untuk melakukan pengintaian (reconnaissance) pada target domain atau IP. Bot ini dibangun menggunakan Python dengan arsitektur OOP (Object-Oriented Programming) yang rapi, *asynchronous*, dan menggunakan database SQLite untuk manajemen riwayat.
 
@@ -6,7 +6,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 Bot ini mengintegrasikan berbagai *security tools* populer ke dalam satu antarmuka chat:
 
@@ -20,7 +20,7 @@ Bot ini mengintegrasikan berbagai *security tools* populer ke dalam satu antarmu
 
 ---
 
-## ⚙️ Prasyarat (Requirements)
+## Requirements
 
 Sebelum menjalankan bot, pastikan sistem Anda (Linux/VPS) memiliki dependensi berikut:
 
